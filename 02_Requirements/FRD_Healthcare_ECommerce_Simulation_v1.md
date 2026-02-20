@@ -1,7 +1,7 @@
 Functional Requirements Document (FRD)
 Healthcare Enterprise Commerce Simulation Platform
 
-**Version: 1.0**
+Version: 1.0
 Delivery Model: Agile (2-week sprints)
 Program Type: Integration-Heavy Enterprise Commerce
 

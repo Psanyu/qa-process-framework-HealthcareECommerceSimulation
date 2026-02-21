@@ -3,6 +3,7 @@
 **Healthcare Enterprise Commerce Simulation – QA Framework**
 
 **1. Introduction**
+
 This Test Strategy defines the structured Quality Assurance approach for validating the Healthcare Enterprise Commerce Simulation Platform across Agile sprint deliveries and controlled regression-based release cycles.
 The strategy ensures enterprise-grade governance, traceability, and risk-controlled validation of business-critical healthcare commerce workflows integrated with OMS, WMS, ERP, and external payment systems.
 

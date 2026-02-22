@@ -130,6 +130,6 @@ High-priority validation areas:
 - Inventory synchronization accuracy
 - ERP reconciliation correctness
 
-Order lifecycle state transitions
+**Order lifecycle state transitions**
 
 This Test Strategy reflects enterprise-grade QA operating practices used in large-scale commerce programs and supports structured governance, integration integrity, and controlled release management.
